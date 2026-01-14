@@ -1,24 +1,24 @@
-# 🔺 PRISMO como Asistente de Virtual
+# 🔺 PRISMO como Asistente Virtual
 > **"Más que un chatbot."**
-Prismo esta inpirado como el amo de los deseos, gracias a su LLM (Qwen3-VL-8B-Instruct) no se le tiene que pasar todas las instrucciones en codigo como los asistentes normales, Prismo puede crear sus propios comandos 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)]()
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](https://huggingface.co/mjojo84/Prismo)
 
-**Prismo** es un asistente virtual, inpirado en el amo de los deseos de hora de aventura porque hace lo que tu desses. A diferencia de los asistentes tradicionales no tienes que programar todos sus comandos gracias a su LLM (Qwen3-VL-8B-Instruct) no le tienes que pasar todas las instrucciones en codigo, como los asistentes normales, Prismo puede crear sus propios comandos. Ademas tiene un **"Cuerpo Visual"** (Avatar 2D) que reacciona en tiempo real a la voz, el texto y el estado del sistema, todo flotando discretamente en tu escritorio mediante ventanas transparentes. 
+**Prismo** es un asistente virtual, inpirado en el amo de los deseos de hora de aventura porque hace lo que tu desees. 
+A diferencia de los asistentes tradicionales no tienes que programar todos sus comandos gracias a su LLM (**Qwen3-VL-8B-Instruct**) no le tienes que pasar todas las instrucciones en codigo, como los asistentes normales, Prismo puede crear sus **propios comandos**. Ademas tiene un **"Cuerpo Visual"** (Avatar 2D) que reacciona en tiempo real a la voz, el texto y el estado del sistema, todo flotando discretamente en tu escritorio mediante ventanas transparentes. 
 
 
 ---
 ## ✨ Lo Chido:
 **Prismo puede:**
--Como su llm es visual puede ver tu pantalla y tomar deciciones, decodifica tu pantalla en pixeles y da las coordenadas y el OS le da click a ese pixel (Falta precisión ) 
--Puede abrir paginas comandos de voz en un navegador especifico.
--Tiene un sistema de busqueda dinamica Que: cuando tu mencionas "google", "youtube" lo que le digas despues de eso lo buscara textualmente en esas plataformas. 
--Tiene un sencillo configurador de animaciones , donde puedes agregar mas 
--**Todo funciona en local**
+* Como su llm es visual puede ver tu pantalla y tomar deciciones, decodifica tu pantalla en pixeles y da las coordenadas y el OS le da click a ese pixel (Falta precisión ) 
+* Puede abrir paginas comandos de voz en un navegador especifico.
+* Tiene un sistema de busqueda dinamica Que: cuando tu mencionas "google", "youtube" lo que le digas despues de eso lo buscara textualmente en esas plataformas. 
+* Tiene un sencillo configurador de animaciones , donde puedes agregar mas 
+* **Todo funciona en local**
 
 ## Estructura y funcionamiento
-### 1.🎭 Modelos: 
+### 1.🎭 Modelos utiliza: 
 * LLM (Large Language Model): Qwen3-VL-8B-Instruct 
 * TTS (Text-to-Speech): Whisper Whisper-Large-V3-Turbo-Ct2
 * STS (Speech-to-Text): F5-Spanish
