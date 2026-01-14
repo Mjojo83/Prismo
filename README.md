@@ -24,7 +24,7 @@ Prismo esta inpirado como el amo de los deseos, gracias a su LLM (Qwen3-VL-8B-In
 * STS (Speech-to-Text): F5-Spanish
 
 ## 2.🏗️ Arquitectura
-* Nos inspiramos en el modelo de Pypecat () en su forma de tener tuberias para reproducir los procesos de prismo de forma segura sin que se congele gracias a Pypecat aunque no copiamos su codigo , vimos el canal de Ytube de su creador y vimos la arquitectura y separamos los hilos de informacion para que el del LLm que es mas importante no se congele.
+* Nos inspiramos en el modelo de Pypecat (https://github.com/pipecat-ai/pipecat) en su forma de tener tuberias para reproducir los procesos de prismo de forma segura sin que se congele gracias a Pypecat aunque no copiamos su codigo , vimos el canal de Ytube de su creador y vimos la arquitectura y separamos los hilos de informacion para que el del LLm que es mas importante no se congele.
 * El modelo Open-LLM-VTuber nos inpiramos de su modo ventana invisible y poder traer tu avatar a donde quieras (https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/tree/main) ,pero com outilizaban JAVA para implementar eso mejor decidimos mejor implementarlo en python.
 
 
@@ -39,7 +39,7 @@ Prismo esta inpirado como el amo de los deseos, gracias a su LLM (Qwen3-VL-8B-In
 
 
 ## Importante.
-*Necesitas un hardware potente, Prismo ocupa alrededor de 15GB de memoria VRAM por lo que una tarjeta grafica es necesaria, ocupe una 3090 con 24 VRAM , por lo que no tuve problemas para trabajar(Aparte de que funiona con drivers de nvidia que ya estan en la carpeta del codigo)
+* Necesitas un hardware potente, Prismo ocupa alrededor de 15GB de memoria VRAM por lo que una tarjeta grafica es necesaria, ocupe una 3090 con 24 VRAM , por lo que no tuve problemas para trabajar(Aparte de que funiona con drivers de nvidia que ya estan en la carpeta del codigo)
 * Tambien probamos con otros LLM con vision como Gema de google pero como estan entrenados de otra forma la parte de los pixeles no funciono , asi que si quieren probar otro modelo , tendran que experimentar
   Solo funciona bien con la familia de Qwen3-VL
 * En la rama central de las carpetas viene una que dice documentacion, ahi hay instrucciones mas detalladas
