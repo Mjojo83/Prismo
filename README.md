@@ -29,10 +29,11 @@ A diferencia de los asistentes tradicionales no tienes que programar todos sus c
 
 
 ### 3. 🛠️ Prismo Studio & Configurador
-*Comfigurador.py*: Prismo tiene un archivo llamado configurador.py , este archivo puede configurar los modelos de LLM , 
-* Tiene un sencillo configurador de animaciones , donde puedes agregar más. ✨
+* **Configurador.py**: Prismo tiene un archivo llamado configurador.py , este archivo puede configurar los modelos de LLM , 
+* Tiene un sencillo configurador de animaciones , donde puedes agregar más✨
 
-**Notas:**
+
+## Notas:
 * La pantalla la decodificamos en pixeles asi el modelo ubica mas los objetivos que sin ella (hicimos pruebas)
 **Importante:** Se configuro a prismo para que trabaje con una pantalla ultrawide (32 pulgas) por lo que hizo unas modificaciones pero si tienes la normal o estandar (24 pulgadas) quita ese codigo asi funcionaria mucho mejor, de hecho el sistema esta diseñado para trabajar en 24 pero lo modificamos para que pudiera funcionar en la mia.
 * Hay dos frenos de "emergencia"- al momento de probarlo y como prismo podia usar el cursor, aveces modificaba su codigo y se salia de control asi que decidimos poner un 2 breaks en el codigo, el primero es con la tecla "**Esc**" y con el comando de voz "Para".
@@ -49,5 +50,5 @@ A diferencia de los asistentes tradicionales no tienes que programar todos sus c
 * Para los LLM tendras que descargar ollama y copiar y pegar este comando ( ollama run qwen3-vl:8b-instruct ) en un cmd.
 * Para STS vamos a utilizar el F5-Spanish que es un modelo con un fine tuning de español latino , que aun NO IMPLEMENTAMOS.
 * Para TTS utilizamos whisper (https://huggingface.co/deepdml/faster-whisper-large-v3-turbo-ct2/tree/main)
-
-## 🔺Prismo es un proyecto aun en desarrollo si alguno de ustedes puede mejorarlo, mejorelo.
+ 
+## 🔺Prismo es un proyecto aun en desarrollo si alguno de ustedes puede mejorarlo, mejorelo. (🔺_🔺)
