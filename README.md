@@ -1,7 +1,6 @@
-# 🔺 PRISMO AI: Tu Asistente de Escritorio Reactivo (2D Visual)
-
+# 🔺 PRISMO como Asistente de Virtual
 > **"Más que un chatbot, un compañero que vive en tu pantalla."**
-
+Prismo esta inpirado como el amo de los deseos, gracias a su LLM (Qwen3-VL-8B-Instruct) no se le tiene que pasar todas las instrucciones en codigo como los asistentes normales, Prismo puede crear sus propios comandos 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)]()
 [![Hugging Face](https://img.shields.io/badge/Models-HuggingFace-yellow.svg)](AQUI_TU_LINK_DE_HUGGING_FACE)
