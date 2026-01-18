@@ -7,7 +7,7 @@
 **Prismo** es un asistente virtual, inpirado en el amo de los deseos de hora de aventura porque hace lo que tu desees. 
 A diferencia de los asistentes tradicionales no tienes que programar todos sus comandos gracias a su LLM (**Qwen3-VL-8B-Instruct**) no le tienes que pasar todas las instrucciones en codigo, como los asistentes normales, Prismo puede crear sus **propios comandos**. Ademas tiene un **"Cuerpo Visual"** (Avatar 2D) que reacciona en tiempo real a la voz, el texto y el estado del sistema, todo flotando discretamente en tu escritorio mediante ventanas transparentes. 
 
-
+![Image](https://github.com/user-attachments/assets/e2e79158-88bb-4502-a034-b66fa2f92dbd)
 ---
 ## ✨ Lo Chido:
 **Prismo puede:**
