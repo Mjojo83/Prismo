@@ -52,3 +52,5 @@ A diferencia de los asistentes tradicionales no tienes que programar todos sus c
 * Para TTS utilizamos whisper (https://huggingface.co/deepdml/faster-whisper-large-v3-turbo-ct2/tree/main)
  
 ## 🔺Prismo es un proyecto aun en desarrollo si alguno de ustedes puede mejorarlo, mejorelo. (🔺_🔺)
+https://github.com/user-attachments/assets/8ac5d743-4bea-4c0f-860a-6c21ae137a54
+https://github.com/user-attachments/assets/7d94206b-1ca3-4f0b-91cd-b9f30466a9aa
