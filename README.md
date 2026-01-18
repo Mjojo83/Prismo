@@ -45,7 +45,7 @@ A diferencia de los asistentes tradicionales no tienes que programar todos sus c
   Solo funciona bien con la familia de Qwen3-VL
 * En la rama central de las carpetas viene una que dice documentacion, ahi hay instrucciones mas detalladas
 
-#🎭 Links de los modelos:
+# 🎭 Links de los modelos:
 * Prismo de huggingface: https://huggingface.co/mjojo84/Prismo
 * Para los LLM tendras que descargar ollama y copiar y pegar este comando ( ollama run qwen3-vl:8b-instruct ) en un cmd.
 * Para STS vamos a utilizar el F5-Spanish que es un modelo con un fine tuning de español latino , que aun NO IMPLEMENTAMOS.
